@@ -12,6 +12,7 @@ A text-based Python program to convert Strings into Morse Code.
 
 # Getting Started
 - Fork this repo and install all the requirements in the `requirements.txt` file
+- Run the `main.py` file inside the `resources` folder.
 
 ##### OR
 - Get your own local copy by cloning using the command below:
@@ -19,6 +20,7 @@ A text-based Python program to convert Strings into Morse Code.
 git clone https://github.com/Josh-Ay/text-to-morse-code.git
 ``` 
 - Install all the requirements in the `requirements.txt` file
+- Run the `main.py` file inside the `resources` folder.
 
 # Solution Walkthrough:
 ![](resources/video/morse_converter_video.gif)
